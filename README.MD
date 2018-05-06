@@ -14,6 +14,8 @@ I used the code from Google Cloud Platform as the starter code for the Android a
 3. I implemented the sendMessage function to send GET message to the board and receive the feedback messsage.
 Besides that, I also used and modifyed the code for establishing the python HTTP server. The links are shown below: 
 
-(https://github.com/GoogleCloudPlatform/android-docs-samples)
-(https://www.pi4iot.com/doku.php?id=sbc:esp8266)
-(https://gist.github.com/bradmontgomery/2219997)
+https://github.com/GoogleCloudPlatform/android-docs-samples
+
+https://www.pi4iot.com/doku.php?id=sbc:esp8266
+
+https://gist.github.com/bradmontgomery/2219997
