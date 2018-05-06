@@ -7,7 +7,7 @@ In this full-stack development project including hardware, software, web interfa
 
 ![diagram](block_diagram.png)
 
-# Reference:
+# Reference
 I used the code from Google Cloud Platform as the starter code for the Android application. I made several major changes based on that:
 1. I added two new layouts displaying the return messages and possible error messages.
 2. I added a textview to input ip addresses, and a button to test connection.
