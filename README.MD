@@ -1,5 +1,5 @@
 # Python-based Voice-control Smartwatch
-# Zhifu Xiao
+## Author: Zhifu Xiao
 
 # Summary
 
